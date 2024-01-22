@@ -1,4 +1,7 @@
 # ChangeLod.md
 
 ### 0.1.0
-- [ ] study html a tag
+- [x] study html a tag
+
+### 0.2.0
+- [ ] search-console
