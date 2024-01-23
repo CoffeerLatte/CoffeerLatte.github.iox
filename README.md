@@ -1,6 +1,6 @@
 # 타이틀
 
-![image](https://github.com/CoffeerLatte/CoffeerLatte.github.io/assets/125641153/a8dca5ec-34ed-44a9-a551-e8a046c2e817)
+![image](https://github.com/CoffeerLatte/CoffeerLatte.github.io/assets/125641153/288ff85b-7812-4e48-8051-c4c39a25a34a)
 
 # 개발환경 및 방법
 
