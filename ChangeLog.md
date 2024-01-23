@@ -18,3 +18,5 @@
 ### 0.5.0
 - [ ] firebase & deploy  
 
+### 0.6.0
+- [ ] study css
