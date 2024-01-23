@@ -20,3 +20,6 @@
 
 ### 0.6.0
 - [ ] study css
+
+### 0.7.0
+- [ ] write resume
