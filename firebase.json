@@ -1,0 +1,11 @@
+{
+  "hosting": {
+	"site": "coffeerlattedev",
+    "public": "/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
