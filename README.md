@@ -16,10 +16,10 @@ firebase를 사용하여 배포
 ### https://coffeerlatte.github.io/
 
 
-|STG|BRANCH|URL|URL|
-|------|---|---|---|
-DEV = https://coffeerlattedev.web.app/
+|STG|BRANCH|TRIGGER|URL|
+|------|---|---|---|---|
+|DEV|BRANCH OF PR |manual firebase cmd*|https://coffeerlattedev.web.app/|
 PR = https://coffeerlatte.github.io/
-
+|pr|BRANCH OF PR |manual firebase cmd*|https://coffeerlattedev.web.app/|
 # 감사 - 디자인템플릿 공여자에게
 https://html5up.net/read-only
