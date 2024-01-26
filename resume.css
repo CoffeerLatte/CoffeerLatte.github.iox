@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sunflower:wght@300;500&display=swap');
+
+
+
+
+
+
+.center{
+  text-align: center;
+}
+
+.box{
+  border : 2px solid rgb(0, 0, 0);
+  width: 140px;
+  height: 140px;
+}
+
+.font{
+  font-family: 'Sunflower', sans-serif;
+  color: rgb(105, 108, 105);
+
+}
+.vi{
+  word-break: keep-all;
+}
