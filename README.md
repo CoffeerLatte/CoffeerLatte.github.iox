@@ -18,8 +18,8 @@ firebase를 사용하여 배포
 
 |STG|BRANCH|URL|URL|
 |------|---|---|---|
-DEV = https://coffeerlattedev.web.app/
-PR = https://coffeerlatte.github.io/
+DEV|   |https://coffeerlattedev.web.app/
+PR|   |https://coffeerlatte.github.io/
 
 # 감사 - 디자인템플릿 공여자에게
 https://html5up.net/read-only
