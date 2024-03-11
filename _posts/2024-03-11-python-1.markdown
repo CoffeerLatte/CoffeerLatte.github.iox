@@ -1,0 +1,10 @@
+---
+layout: Python
+title:  "첫 Python 포스트!"
+date:   2024-03-11 15:50:00 +0900
+categories: jekyll update
+---
+
+첫 python 포스트 입니다.
+
+설치 방법부터 기초를 거쳐 심화까지 포스트할 예정 입니다.
