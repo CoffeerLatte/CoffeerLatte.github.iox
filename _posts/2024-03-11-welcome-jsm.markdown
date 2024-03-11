@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-03-11 12:09:36 +0900
+title:  "첫 포스트!"
+date:   2024-03-11 15:28:00 +0900
 categories: jekyll update
 ---
 
-hi
+안녕하세요~ 
 
